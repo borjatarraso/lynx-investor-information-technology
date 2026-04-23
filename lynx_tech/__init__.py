@@ -1,6 +1,6 @@
 """Lynx Information Technology — Fundamental analysis for software, SaaS, semiconductors, cloud, cybersecurity & IT companies."""
 
-__version__ = "3.0"
+__version__ = "3.0.1"
 __author__ = "Borja Tarraso"
 __author_email__ = "borja.tarraso@member.fsf.org"
 __year__ = "2026"

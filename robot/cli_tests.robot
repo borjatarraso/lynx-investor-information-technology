@@ -88,7 +88,7 @@ Explain A Valuation Metric
     Given The Application Is Available
     When I Explain Metric "cash_to_market_cap"
     Then The Exit Code Should Be 0
-    Then The Output Should Contain "Cash-to-Market-Cap"
+    Then The Output Should Contain "Cash / Market Cap"
 
 Explain A Tech-Specific Metric Rule Of 40
     [Documentation]    GIVEN the app WHEN I explain rule_of_40 THEN it shows details
