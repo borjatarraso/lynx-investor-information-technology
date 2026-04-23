@@ -1,3 +1,4 @@
+# PYTHON_ARGCOMPLETE_OK
 """Entry point for lynx-tech."""
 
 from lynx_tech.cli import run_cli
