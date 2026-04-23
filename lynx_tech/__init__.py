@@ -1,13 +1,13 @@
 """Lynx Information Technology — Fundamental analysis for software, SaaS, semiconductors, cloud, cybersecurity & IT companies."""
 
-__version__ = "3.0.1"
+__version__ = "4.0"
 __author__ = "Borja Tarraso"
 __author_email__ = "borja.tarraso@member.fsf.org"
 __year__ = "2026"
 __license__ = "BSD-3-Clause"
 
 SUITE_NAME = "Lince Investor Suite"
-SUITE_VERSION = "3.0"
+SUITE_VERSION = "4.0"
 SUITE_LABEL = f"{SUITE_NAME} v{SUITE_VERSION}"
 APP_NAME = "Lynx Information Technology Analysis"
 

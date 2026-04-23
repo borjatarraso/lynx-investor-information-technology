@@ -41,7 +41,7 @@ def get_relevance(
     """Look up relevance for a metric given tier and stage.
 
     Stage overrides take precedence — the lifecycle stage is the primary axis
-    for IT analysis just as mining stage was for Basic Materials.
+    for IT analysis (lifecycle dimension parallels other sector kits).
     """
     stage_override = _STAGE_OVERRIDES.get(metric_key, {}).get(stage)
     if stage_override is not None:
